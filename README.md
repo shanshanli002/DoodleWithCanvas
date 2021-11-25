@@ -20,9 +20,8 @@ https://shanshanli002.github.io/DoodleWithCanvas/
 # Video Demo 
 A demo video can be found in the landing page of the application under Guide section. 
 
-bobproductsdemo.we
 <img width="1297" alt="demoscreenshot" src="https://user-images.githubusercontent.com/63330376/143440760-2ebf6ac1-fccc-4094-b96f-940f0c7e2aa6.png">
-bm
+
 
 # Team
 Shan Li
