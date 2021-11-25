@@ -5,7 +5,7 @@
 You might notice a familiar face in this application's UI, Bob Ross! 
 Pixel Bob will be your host at Bob's secret desert where he needs help with his new products. 
 You will be challenged to put on your creative cap to turn his products ready for the shelves. 
-This application was created for Mintbean’s hackathon and was inspired by Bob Ross' creativity and passion to inspire others.
+This application was created for Mintbean’s hackathon(Fontend-only) and was inspired by Bob Ross' creativity and passion to inspire others.
 
 # How To
 1) Click "Enter Desert" button on landing page 
