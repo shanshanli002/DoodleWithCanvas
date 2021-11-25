@@ -1,0 +1,131 @@
+body{
+    height: 100%;
+    width: 100vw;
+    overflow: scroll;
+    background-color: rgba(232,162,91,255);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1, h2{
+    font-size: 4rem;
+    font-family: 'Shippori Antique B1', sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    color: rgb(63, 47, 34);
+}
+.intro{
+    margin-top: 5%;
+    width: 80vw;
+    display: flex;
+    justify-content: space-around;
+}
+.pixelbob{
+    width: 30vw;
+}
+.exp{
+width: 50vw;
+}
+
+.exptext{
+    font-size: 1.5rem;
+    font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.enterdesert{
+    background-color: rgb(245, 208, 153);
+    border: 3px solid black;
+    border-radius: 2px;
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+}
+
+.guide{
+    margin-top: 5%;
+    width: 80vw;
+    font-size: 1.5rem;
+    font-family: 'Shippori Antique B1', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tools{
+    margin-top: 5%;
+    width: 80vw;
+    font-size: 1.5rem;
+    font-family: 'Shippori Antique B1', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.toolsimgs{
+    width: 25vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgs
+{
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    border-radius: 4px;
+}
+
+
+.meetdev{
+    margin-top: 2%;
+    font-size: 1.5rem;
+    font-family: 'Shippori Antique B1', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.devcard{
+    width: 20vw;
+    font-size: 1.5rem;
+    font-family: 'Shippori Antique B1', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(232, 178, 124);
+    border: 5px solid rgb(63, 47, 34);
+    border-radius: 5px;
+}
+
+.devimg{
+    width: 50%;
+    height: 20%;
+    margin-top: 5%;
+}
+
+.linkedinlogo{
+    width: 20%;
+    height: 20%;
+    margin-bottom: 3%;
+}
+
+.linkedinlink{
+    display: flex;
+    justify-content: center;
+
+}
+h3{
+    margin: 1%;
+}
+h4{
+    font-size: 60%;
+}
